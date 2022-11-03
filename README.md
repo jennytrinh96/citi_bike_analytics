@@ -1,6 +1,6 @@
 # Citi Bike Analytics
 # How Has COVID-19 Affected Citi Bike Rentals in New York?
-
+https://public.tableau.com/app/profile/jenny.trinh/viz/CitiBikeRentalsinNYvs_COVID19/COVID-19Story?publish=yes
 
 ### Has the proportions of short-term and annual subscribers changed?
 
